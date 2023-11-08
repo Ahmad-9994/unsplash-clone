@@ -1,0 +1,36 @@
+.pare{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ }
+
+
+.image{
+   margin: 20px;
+    
+    display: flex;
+}
+.search{
+    width: 60%;
+    margin: auto;
+  
+    text-align: center;
+
+}
+.search label{
+    font-size: 30px;
+    
+}
+.search input{
+    width: 70%;
+    height: 25px;
+    font-size: 22px;
+    border-radius: 15px;
+}
+
+.dark{
+    background-color: red;
+}
+.light{
+    background-color: aqua;
+}
